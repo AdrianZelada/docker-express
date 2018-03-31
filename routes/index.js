@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
   // cmdGit.lastCommit().then((git)=>{
   //   res.render('index', { title: 'Express',lastCommit:git });  
   // });
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Expresssssss' });
 });
 
 module.exports = router;
